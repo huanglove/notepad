@@ -1,0 +1,65 @@
+{
+    "title" : "hyuan笔记本",
+    "author" : "hyuan",
+    "description" : "记录Gitbook的配置和一些插件的使用",
+    "language" : "zh-hans",
+    "plugins": [
+        "disqus",
+        "-search",
+        "search-pro",
+        "github",
+        "splitter",
+        "sharing",
+        "editlink",
+        "image-captions",
+        "tags",
+        "-highlight", 
+        "sunlight-highlighter",
+        "exercises"
+        ],
+    "pluginsConfig": {
+        "search-pro": {
+            "cutWordLib": "nodejieba",
+            "defineWord" : ["Gitbook Use"]
+        },
+        "disqus": {
+            "shortName": "gwebpack-handbook"
+        },
+        "github": {
+            "url": "https://github.com/zerohyuan/notepad"
+        },
+        "sharing": {
+            "weibo": true,
+            "facebook": true,
+            "twitter": true,
+            "google": false,
+            "instapaper": false,
+            "vk": false,
+            "all": [
+                "facebook", "google", "twitter",
+                    "weibo", "instapaper","vk"
+            ]
+        },
+        "editlink": {
+            "base": "https://github.com/zerohyuan/notepad/edit/master",
+            "label": "编辑本页"
+        },
+        "sunlight-highlighter": {
+            "theme": "gitbook",
+            "lineNumber": true
+        }
+
+    },
+    "links" : {
+        "sidebar" : {
+            "个人主页" : "https://github.com/zerohyuan"
+        }
+    },
+    "styles": {
+    "website": "styles/website.css",
+    "ebook": "styles/ebook.css",
+    "pdf": "styles/pdf.css",
+    "mobi": "styles/mobi.css",
+    "epub": "styles/epub.css"
+}
+}
