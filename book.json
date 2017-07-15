@@ -6,7 +6,9 @@
     "plugins": [
         "disqus",
         "-search",
-        "search-pro",
+        "-lunr",
+        "search-plus",
+
         "github",
         "splitter",
         "sharing",
@@ -15,13 +17,15 @@
         "tags",
         "-highlight", 
         "sunlight-highlighter",
-        "exercises"
+        "exercises",
+        "github-buttons",
+        "advanced-emoji",
+        "expandable-chapters-small",
+        "tbfed-pagefooter",
+        "sitemap-general"
         ],
     "pluginsConfig": {
-        "search-pro": {
-            "cutWordLib": "nodejieba",
-            "defineWord" : ["Gitbook Use"]
-        },
+
         "disqus": {
             "shortName": "gwebpack-handbook"
         },
@@ -30,11 +34,9 @@
         },
         "sharing": {
             "weibo": true,
-            "facebook": true,
+            "google": true,
             "twitter": true,
-            "google": false,
-            "instapaper": false,
-            "vk": false,
+            "facebook": true,
             "all": [
                 "facebook", "google", "twitter",
                     "weibo", "instapaper","vk"
@@ -47,8 +49,24 @@
         "sunlight-highlighter": {
             "theme": "gitbook",
             "lineNumber": true
+        },
+        "github-buttons": {
+            "repo": "zerohyuan/notepad",
+            "types": [
+                "star",
+                "watch",
+                "fork"
+            ],
+            "size": "small"
+        },
+        "tbfed-pagefooter": {
+            "copyright":"Copyright &copy www.zerohy.cn 2017",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "sitemap-general": {
+            "prefix": "https://github.com/zerohyuan/notepad"
         }
-
     },
     "links" : {
         "sidebar" : {
