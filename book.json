@@ -4,27 +4,27 @@
     "description" : "记录Gitbook的配置和一些插件的使用",
     "language" : "zh-hans",
     "plugins": [
+        "expandable-chapters-small",
+        "navigator",
+        "tags",
+        "splitter",
         "disqus",
+        "duoshuo",
         "-search",
         "-lunr",
         "search-pro",
         "github",
-        "splitter",
         "sharing",
         "editlink",
         "image-captions",
-        "tags",
         "-highlight", 
         "sunlight-highlighter",
         "exercises",
-        "github-buttons",
         "advanced-emoji",
-        "expandable-chapters-small",
         "tbfed-pagefooter",
         "sitemap-general",
-        "navigator",
         "anchors",
-        "duoshuo"
+        "mermaid"
         ],
     "pluginsConfig": {
 
@@ -51,15 +51,6 @@
         "sunlight-highlighter": {
             "theme": "gitbook",
             "lineNumber": true
-        },
-        "github-buttons": {
-            "repo": "zerohyuan/notepad",
-            "types": [
-                "star",
-                "watch",
-                "fork"
-            ],
-            "size": "small"
         },
         "tbfed-pagefooter": {
             "copyright":"Copyright &copy www.zerohy.cn 2017",
