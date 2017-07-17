@@ -8,7 +8,6 @@
         "navigator",
         "tags",
         "splitter",
-        "disqus",
         "duoshuo",
         "-search",
         "-lunr",
@@ -27,10 +26,6 @@
         "mermaid"
         ],
     "pluginsConfig": {
-
-        "disqus": {
-            "shortName": "gwebpack-handbook"
-        },
         "github": {
             "url": "https://github.com/zerohyuan/notepad"
         },
