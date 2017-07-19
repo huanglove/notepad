@@ -12,6 +12,8 @@
 
 ### Java篇
 * [1. Java](part2-Java/README.md)
+
+----
 * [Tags](tags.md)
 
 
