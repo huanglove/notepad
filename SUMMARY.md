@@ -13,6 +13,9 @@
 ### Java篇
 * [1. Java](part2-Java/README.md)
 
+### Linux篇
+* [1. Deepin](part3-Linux/README.md)
+ * [1.1 Deepin系统装机必备操作](part3-Linux/1.1 Deepin系统装机必备操作.md)
 ----
 * [Tags](tags.md)
 
