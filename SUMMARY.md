@@ -2,20 +2,21 @@
 
 * [介绍](README.md)
 
+
+### 专业篇
+
+* [1. Java](part2-Java/README.md)
+ * [1.1 多线程](part2-Java/1.1. Java多线程.md)
+* [2. Linux](part3-Linux/README.md)
+ * [2.1 Deepin系统装机必备操作](part3-Linux/1.1 Deepin系统装机必备操作.md)
+ 
 ### 工具篇
 
 * [1. gitbook环境搭建](part1-gitbook环境搭建/README.md)
- * [1.1 编写环境搭建](part1-gitbook环境搭建/1.md)
- * [1.2 gitbook支持的Markdown语法](part1-gitbook环境搭建/2.md)
- * [1.3 gitbook常用插件](part1-gitbook环境搭建/3.md)
+* [1.1 编写环境搭建](part1-gitbook环境搭建/1.md)
+* [1.2 gitbook支持的Markdown语法](part1-gitbook环境搭建/2.md)
+* [1.3 gitbook常用插件](part1-gitbook环境搭建/3.md)
 
-
-### Java篇
-* [1. Java](part2-Java/README.md)
-
-### Linux篇
-* [1. Deepin](part3-Linux/README.md)
- * [1.1 Deepin系统装机必备操作](part3-Linux/1.1 Deepin系统装机必备操作.md)
 ----
 * [Tags](tags.md)
 
