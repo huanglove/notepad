@@ -7,6 +7,7 @@
 
 * [1. Java](part2-Java/README.md)
  * [1.1 多线程](part2-Java/1.1. Java多线程.md)
+ * [1.2 类实例化顺序](part2-Java/1.2.类实例化顺序.md)
 * [2. Linux](part3-Linux/README.md)
  * [2.1 Deepin系统装机必备操作](part3-Linux/1.1 Deepin系统装机必备操作.md)
 * [3. 其他](part4-others/README.md)
