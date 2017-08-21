@@ -12,11 +12,13 @@
  * [1.4 Java中的类型转换](part2-Java/1.4.Java中的类型转换.md)
 * [2. Linux](part3-Linux/README.md)
  * [2.1 Deepin系统装机必备操作](part3-Linux/1.1 Deepin系统装机必备操作.md)
-* [其他](partN-others/README.md)
 * [3. 前端](part4-前端/README.md)
- * [3.1 Deepin系统装机必备操作](part4-前端/1.1.DataTables.md)
-* [其他](partN-others/README.md)
+ * [3.1 Deepin系统装机必备操作](part4-前端/1.1.DataTables.md) 
+* [4. 数据库](part5-数据库/README.md)
+ * [4.1 MySQL常见问题](part5-数据库/1.1.MySQL常见问题.md)
 
+ 
+* [其他](partN-others/README.md)
  * [1 MIGU](partN-others/3.1 MIGU.md)
 
 ### 工具篇
