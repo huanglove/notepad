@@ -16,8 +16,6 @@
         "sharing",
         "editlink",
         "image-captions",
-        "-highlight", 
-        "sunlight-highlighter",
         "exercises",
         "advanced-emoji",
         "tbfed-pagefooter",
@@ -42,10 +40,6 @@
         "editlink": {
             "base": "https://github.com/zerohyuan/notepad/edit/master",
             "label": "编辑本页"
-        },
-        "sunlight-highlighter": {
-            "theme": "gitbook",
-            "lineNumber": true
         },
         "tbfed-pagefooter": {
             "copyright":"Copyright &copy www.zerohy.cn 2017",
