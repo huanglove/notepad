@@ -38,7 +38,7 @@
             ]
         },
         "editlink": {
-            "base": "https://github.com/zerohyuan/notepad/edit/master",
+            "base": "https://www.gitbook.com/book/zerohyuan/notepad/edit#/edit/master",
             "label": "编辑本页"
         },
         "tbfed-pagefooter": {
